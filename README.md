@@ -7,3 +7,28 @@
 * [Hoher Nock](https://www.bergfex.at/sommer/oberoesterreich/touren/wanderung/6700,hoher-nock/)
 * [Bosruck](https://www.bergfex.at/sommer/oberoesterreich/touren/wanderung/6824,bosruck--grenzberg-mit-drei-gipfelkreuzen/)
 * [Überschreitung Katergebirge](http://www.alpintouren.com/de/touren/wandern/tourbeschreibung/tourdaten_18859.html)
+* [Großer Priel](https://www.bergsteigen.com/touren/klettersteig/priel-klettersteig/)
+
+## Klettersteige
+
+* Geiler Hengst
+* Seewand
+
+## Weiter Weg / Mehrere Tage
+
+* [Großvenediger 3.666m](https://wels.naturfreunde.at/events/angebot/grossvenediger-3-666-m/)
+* Wildspitze - 2. höchster Berg Österreichs 3.768m
+* Oberwalder Hütte und auf den Mittleren Bärenkopf
+
+    [Übernachtung](http://www.alpenverein.at/oberwalderhuette/)
+    Anfahrt
+    Tag 1: Anfahrt zur Franz-Josefs-Höhe und Aufstieg zur Hütte
+        700hm, leicht
+        [Oberwalderhütte Tour](https://www.alpenvereinaktiv.com/de/tour/auf-die-oberwalderhuette-von-der-franz-josefs-hoehe/8569711/)
+    Tag 2: Mittlerer Bärenkopf
+        Mittlerer Bärenkopf 3.250 m bzw. 3.358 m
+        400hm - leicht, keine Gletscher-Ausrüstung nötig!
+        [Großer Bärenkopf](https://de.wikipedia.org/wiki/Gro%C3%9Fer_B%C3%A4renkopf_(Glocknergruppe))
+        [Großer Bärenkopf - Tour](https://www.alpenvereinaktiv.com/de/tour/auf-den-mittleren-baerenkopf-von-der-oberwalderhuette/10725056/)
+    Abstieg am Tag 2 sollte leicht möglich sein
+    Zusätzliche Übernachtung und Abstieg am nächsten Tag ist auch möglich
