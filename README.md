@@ -11,8 +11,8 @@
 
 ## Klettersteige
 
-* Geiler Hengst
-* Seewand
+* [Geiler Hengst](https://www.bergsteigen.com/touren/klettersteig/klettersteig-geiler-hengst-kampermauer/)
+* [Seewand](https://www.bergsteigen.com/touren/klettersteig/seewand-klettersteig/)
 
 ## Weiter Weg / Mehrere Tage
 
