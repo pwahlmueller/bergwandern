@@ -14,6 +14,14 @@
 * [Geiler Hengst](https://www.bergsteigen.com/touren/klettersteig/klettersteig-geiler-hengst-kampermauer/)
 * [Seewand](https://www.bergsteigen.com/touren/klettersteig/seewand-klettersteig/)
 
+### Klettersteige Südtirol Nähe Gardasee
+
+* [Via Ferrata delle Aquile - Nähe San Michelle](https://www.via-ferrata.de/klettersteige/topo/via-ferrata-delle-aquile-klettersteig-paganella?fbclid=IwAR0Z_NmTZSmqWwDtrzeoRHhbPXMFCbH57ld-uw3xJ1T9Od14hD8HBBzptkQ)
+
+## Weitere Klettersteige
+
+* [Schweiz Stechelberg](https://www.bergsteigen.com/touren/klettersteig/klettersteig-muerren-gimmelwald/) [(Video Facebook)](https://www.facebook.com/watch/?v=1007564176314746)
+
 ## Weiter Weg / Mehrere Tage
 
 * [Großvenediger 3.666m](https://wels.naturfreunde.at/events/angebot/grossvenediger-3-666-m/)
