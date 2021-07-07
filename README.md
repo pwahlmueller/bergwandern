@@ -8,6 +8,7 @@
 * [Bosruck](https://www.bergfex.at/sommer/oberoesterreich/touren/wanderung/6824,bosruck--grenzberg-mit-drei-gipfelkreuzen/)
 * [Überschreitung Katergebirge](http://www.alpintouren.com/de/touren/wandern/tourbeschreibung/tourdaten_18859.html)
 * [Großer Priel](https://www.bergsteigen.com/touren/klettersteig/priel-klettersteig/)
+* [Dachstein via Westgrat](https://www.bergsteigen.com/touren/klettersteig/dachstein-westgrat/)
 
 ## Klettersteige
 
