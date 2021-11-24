@@ -41,3 +41,7 @@
         [Großer Bärenkopf - Tour](https://www.alpenvereinaktiv.com/de/tour/auf-den-mittleren-baerenkopf-von-der-oberwalderhuette/10725056/)
     Abstieg am Tag 2 sollte leicht möglich sein
     Zusätzliche Übernachtung und Abstieg am nächsten Tag ist auch möglich
+
+## Schitouren
+
+* [Höllengebirge - Feuerkogel - Hochlecken - Taferlklause](https://www.outdooractive.com/de/route/skitour/salzkammergut-berge/hoellengebirgsueberquerung-vom-feuerkogel-zum-hochlecken/9448699/#dmdtab=oax-tab5)
