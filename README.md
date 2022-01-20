@@ -27,6 +27,7 @@
 
 * [Großvenediger 3.666m](https://wels.naturfreunde.at/events/angebot/grossvenediger-3-666-m/)
 * Wildspitze - 2. höchster Berg Österreichs 3.768m
+* []
 * Oberwalder Hütte und auf den Mittleren Bärenkopf
 
     [Übernachtung](http://www.alpenverein.at/oberwalderhuette/)
@@ -41,6 +42,9 @@
         [Großer Bärenkopf - Tour](https://www.alpenvereinaktiv.com/de/tour/auf-den-mittleren-baerenkopf-von-der-oberwalderhuette/10725056/)
     Abstieg am Tag 2 sollte leicht möglich sein
     Zusätzliche Übernachtung und Abstieg am nächsten Tag ist auch möglich
+* [Hoher Sonnblick]()
+    - [Tourbeschreibung Ueberschreitung](https://www.hdsports.org/bergwandern/hoher-sonnblick-goldzechkopf-hocharn-ueberschreitung)
+    - [Tourbeschreibung Hoher Sonnblick](https://berghasen.com/2018/08/28/hoher-sonnblick-bergtour-rauris/)
 
 ## Schitouren
 
