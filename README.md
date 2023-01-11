@@ -25,6 +25,8 @@
 
 ## Weiter Weg / Mehrere Tage
 
+[Gletscher im 19. Jahrhundert](https://maps.arcanum.com/de/map/europe-19century-thirdsurvey/?layers=160%2C166&bbox=1391306.4289971164%2C5948491.592211519%2C1440226.1270996293%2C5967237.773398458)
+
 * [Großvenediger 3.666m](https://wels.naturfreunde.at/events/angebot/grossvenediger-3-666-m/)
 * Wildspitze - 2. höchster Berg Österreichs 3.768m
 * []
@@ -42,10 +44,24 @@
         [Großer Bärenkopf - Tour](https://www.alpenvereinaktiv.com/de/tour/auf-den-mittleren-baerenkopf-von-der-oberwalderhuette/10725056/)
     Abstieg am Tag 2 sollte leicht möglich sein
     Zusätzliche Übernachtung und Abstieg am nächsten Tag ist auch möglich
-* [Hoher Sonnblick]()
+* Hoher Sonnblick
     - [Tourbeschreibung Ueberschreitung](https://www.hdsports.org/bergwandern/hoher-sonnblick-goldzechkopf-hocharn-ueberschreitung)
     - [Tourbeschreibung Hoher Sonnblick](https://berghasen.com/2018/08/28/hoher-sonnblick-bergtour-rauris/)
 
+## Wanderreiseziele
+
+* Island
+* Alaska
+* Albanische Alpen (Thomas)
+* Elbrus / Georgien
+* Mt. Blanc
+
+## Kurse finden
+
+* [Alpenverein Linz]()
+* [Alpenverein Akademie]()
+* [Naturfreunde - allerdings bis 30](https://akademie.naturfreunde.at/events/angebot/hochalpin-camp/)
+* []()
 ## Schitouren
 
 * [Höllengebirge - Feuerkogel - Hochlecken - Taferlklause](https://www.outdooractive.com/de/route/skitour/salzkammergut-berge/hoellengebirgsueberquerung-vom-feuerkogel-zum-hochlecken/9448699/#dmdtab=oax-tab5)
