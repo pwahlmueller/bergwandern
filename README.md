@@ -9,6 +9,7 @@
 * [Überschreitung Katergebirge](http://www.alpintouren.com/de/touren/wandern/tourbeschreibung/tourdaten_18859.html)
 * [Großer Priel](https://www.bergsteigen.com/touren/klettersteig/priel-klettersteig/)
 * [Dachstein via Westgrat](https://www.bergsteigen.com/touren/klettersteig/dachstein-westgrat/)
+* [Schönberg über Ostgrat](https://www.bergfex.at/sommer/oberoesterreich/touren/wanderung/1199626,grosser-schoenberg-wildenkogel/)
 
 ## Klettersteige
 
@@ -47,6 +48,13 @@
 * Hoher Sonnblick
     - [Tourbeschreibung Ueberschreitung](https://www.hdsports.org/bergwandern/hoher-sonnblick-goldzechkopf-hocharn-ueberschreitung)
     - [Tourbeschreibung Hoher Sonnblick](https://berghasen.com/2018/08/28/hoher-sonnblick-bergtour-rauris/)
+
+### 3000er - vermutlich einfach
+
+#### [Hoher Riffler (3166)](https://www.openstreetmap.org/search?query=Pettneu#map=16/47.1082/10.3571)
+
+Sieht einfach aus - nur die letzten Meter eventuell etwas ausgesetzt.
+[Besteigung Video](https://www.youtube.com/watch?v=LTP5Nku3M8g)
 
 ## Wanderreiseziele
 
