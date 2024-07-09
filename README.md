@@ -11,6 +11,15 @@
 * [Dachstein via Westgrat](https://www.bergsteigen.com/touren/klettersteig/dachstein-westgrat/)
 * [Schönberg über Ostgrat](https://www.bergfex.at/sommer/oberoesterreich/touren/wanderung/1199626,grosser-schoenberg-wildenkogel/)
 
+## Gemütliche Tagestour
+* [Denek](https://www.alpenvereinaktiv.com/de/r/273541715?utm_source=unknown&utm_medium=social&utm_campaign=user-shared-social-content) - Steiermark -  schöne Seen
+
+## Nahe & kurz - mittel
+
+* Lagelsberg
+* Große Scheibe + Umgebung (1h)
+* Kasberg vom Brunnental (50 min Fahrt)     
+
 ## Klettersteige
 
 * [Geiler Hengst](https://www.bergsteigen.com/touren/klettersteig/klettersteig-geiler-hengst-kampermauer/)
@@ -48,6 +57,7 @@
 * Hoher Sonnblick
     - [Tourbeschreibung Ueberschreitung](https://www.hdsports.org/bergwandern/hoher-sonnblick-goldzechkopf-hocharn-ueberschreitung)
     - [Tourbeschreibung Hoher Sonnblick](https://berghasen.com/2018/08/28/hoher-sonnblick-bergtour-rauris/)
+* [Brandenburger Haus](https://www.brandenburgerhaus.at/die-hutte)
 
 ### 3000er - vermutlich einfach
 
@@ -55,6 +65,16 @@
 
 Sieht einfach aus - nur die letzten Meter eventuell etwas ausgesetzt.
 [Besteigung Video](https://www.youtube.com/watch?v=LTP5Nku3M8g)
+
+#### [Fluchtkogel (3494)](https://www.openstreetmap.org/node/256041690#map=16/46.8539/10.7963&layers=P)
+
+- [Video](https://www.youtube.com/watch?v=nXfhrfV6M9Y)
+
+#### [Kreuzspitze (3455)](https://www.openstreetmap.org/node/256041690#map=16/46.8124/10.8709&layers=P)
+
+- [Video](https://www.youtube.com/watch?v=fAjPu72zHPE)
+
+### [Keeskopf](https://www.youtube.com/watch?v=YomgWXqVaLE)
 
 ## Wanderreiseziele
 
@@ -73,3 +93,8 @@ Sieht einfach aus - nur die letzten Meter eventuell etwas ausgesetzt.
 ## Schitouren
 
 * [Höllengebirge - Feuerkogel - Hochlecken - Taferlklause](https://www.outdooractive.com/de/route/skitour/salzkammergut-berge/hoellengebirgsueberquerung-vom-feuerkogel-zum-hochlecken/9448699/#dmdtab=oax-tab5)
+
+## Websites
+
++ [Bergfex T](https://tiles.bergfex.at/styles/bergfex-osm/#13.9/47.27725/13.75833)
++ [Outdooractive](https://www.outdooractive.com/de/routeplanner/)
