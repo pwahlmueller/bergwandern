@@ -12,13 +12,28 @@
 * [Schönberg über Ostgrat](https://www.bergfex.at/sommer/oberoesterreich/touren/wanderung/1199626,grosser-schoenberg-wildenkogel/)
 
 ## Gemütliche Tagestour
+
 * [Denek](https://www.alpenvereinaktiv.com/de/r/273541715?utm_source=unknown&utm_medium=social&utm_campaign=user-shared-social-content) - Steiermark -  schöne Seen
 
 ## Nahe & kurz - mittel
 
 * Lagelsberg
 * Große Scheibe + Umgebung (1h)
-* Kasberg vom Brunnental (50 min Fahrt)     
+* Kasberg vom Brunnental (50 min Fahrt)
+
+## Nahe Hütten
+
+[Hütten Alpenverein](https://www.alpenverein.at/huetten/finder.php)
+[Hütten Naturfreunde OÖ](https://www.naturfreunde-huetten.at/oberoesterreich/)
+
+| Hütte                                                                                                                                         | HM     | Gehzeit etwa lt. Outdooractive | Startpunkt                      | Alternativen | Anfahrt Knoten Linz | Betriebszeiten          | Summe    |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------ | ------------------------------- | ------------ | ------------------- | ----------------------- | -------- |
+| [Grünburger Hütte](https://www.gruenburgerhuette.or.at/index.php/anstiege-und-wanderrouten/13-anstieg-vom-rodatal-ueber-die-messerer-gscheid) | 373 hm | 2h 10min                       | Parkplatz Forstau /Obergrünburg |              | 0h 44min / 43km     | im Winter am Wochenende | 2h 54min |
+| [Gowilalm](http://www.gowilalm.at/)                                                                                                           | 490 hm | 2h 25min                       | Parkplatz Gowilalm              |              | 1h 12min / 89km     | 1.Mai 2024- 1.Nov 2024  | 3h 27min |
+| Dümler Hütte                                                                                                                                  | 695 hm | 3h 20min                       | Parkplatz Gleinkersee           |              | 1h 01min / 82km     |                         | 4h 21min |
+| Zeller Hütte                                                                                                                                  | 705 hm | 3h 40min                       | Parkplatz Schafferteiche        |              | 1h 01min / 81km     |                         | 4h 41min |
+| Hochleckenhaus                                                                                                                                | 811 hm | 3h 50min                       | Parkplatz Taferlklause          |              | 0h 51min / 74km     |                         | 4h 41min |
+| [Steyrerhütte](https://steyrerhuette.naturfreunde.at/)                                                                                        | 802 hm | 4h 20min                       | Parkplatz Brunnental            |              | 0h 50min / 67km     |                         | 5h 10min |
 
 ## Klettersteige
 
@@ -55,8 +70,8 @@
     Abstieg am Tag 2 sollte leicht möglich sein
     Zusätzliche Übernachtung und Abstieg am nächsten Tag ist auch möglich
 * Hoher Sonnblick
-    - [Tourbeschreibung Ueberschreitung](https://www.hdsports.org/bergwandern/hoher-sonnblick-goldzechkopf-hocharn-ueberschreitung)
-    - [Tourbeschreibung Hoher Sonnblick](https://berghasen.com/2018/08/28/hoher-sonnblick-bergtour-rauris/)
+  * [Tourbeschreibung Ueberschreitung](https://www.hdsports.org/bergwandern/hoher-sonnblick-goldzechkopf-hocharn-ueberschreitung)
+  * [Tourbeschreibung Hoher Sonnblick](https://berghasen.com/2018/08/28/hoher-sonnblick-bergtour-rauris/)
 * [Brandenburger Haus](https://www.brandenburgerhaus.at/die-hutte)
 
 ### 3000er - vermutlich einfach
@@ -68,11 +83,11 @@ Sieht einfach aus - nur die letzten Meter eventuell etwas ausgesetzt.
 
 #### [Fluchtkogel (3494)](https://www.openstreetmap.org/node/256041690#map=16/46.8539/10.7963&layers=P)
 
-- [Video](https://www.youtube.com/watch?v=nXfhrfV6M9Y)
+* [Video](https://www.youtube.com/watch?v=nXfhrfV6M9Y)
 
 #### [Kreuzspitze (3455)](https://www.openstreetmap.org/node/256041690#map=16/46.8124/10.8709&layers=P)
 
-- [Video](https://www.youtube.com/watch?v=fAjPu72zHPE)
+* [Video](https://www.youtube.com/watch?v=fAjPu72zHPE)
 
 ### [Keeskopf](https://www.youtube.com/watch?v=YomgWXqVaLE)
 
@@ -90,11 +105,12 @@ Sieht einfach aus - nur die letzten Meter eventuell etwas ausgesetzt.
 * [Alpenverein Akademie]()
 * [Naturfreunde - allerdings bis 30](https://akademie.naturfreunde.at/events/angebot/hochalpin-camp/)
 * []()
+
 ## Schitouren
 
 * [Höllengebirge - Feuerkogel - Hochlecken - Taferlklause](https://www.outdooractive.com/de/route/skitour/salzkammergut-berge/hoellengebirgsueberquerung-vom-feuerkogel-zum-hochlecken/9448699/#dmdtab=oax-tab5)
 
 ## Websites
 
-+ [Bergfex T](https://tiles.bergfex.at/styles/bergfex-osm/#13.9/47.27725/13.75833)
-+ [Outdooractive](https://www.outdooractive.com/de/routeplanner/)
+* [Bergfex T](https://tiles.bergfex.at/styles/bergfex-osm/#13.9/47.27725/13.75833)
+* [Outdooractive](https://www.outdooractive.com/de/routeplanner/)
