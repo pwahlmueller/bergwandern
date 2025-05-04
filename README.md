@@ -34,7 +34,9 @@
 | Zeller Hütte (1575m)                                                                                                                                  | 705 hm  | 3h 40min                       | Parkplatz Schafferteiche        |              | 1h 01min / 81km     |                         | 4h 41min |
 | Hochleckenhaus  (1574m)                                                                                                                               | 811 hm  | 3h 50min                       | Parkplatz Taferlklause          |              | 0h 51min / 74km     |                         | 4h 41min |
 | [Steyrerhütte](https://steyrerhuette.naturfreunde.at/)   (1347m)                                                                                      | 802 hm  | 4h 20min                       | Parkplatz Brunnental            |              | 0h 50min / 67km     |                         | 5h 10min |
-| [Ebenseeer Hochkogelhaus](https://ebensee.naturfreunde.at/ueber-uns/hochkogelhaus/) (1558m)                                                           | 1044 hm | 2h 55min                       | Kesselgraben Ebensee            |              | 1h 02min / 85km     | 25.5.2025-15.9.2025     | 3h 57min |
+| [Ebenseeer Hochkogelhaus](https://ebensee.naturfreunde.at/ueber-uns/hochkogelhaus/) (1558m)                                                           | 1044 hm | 5h 00min                       | Kesselgraben Ebensee            |              | 1h 02min / 85km     | 25.5.2025-15.9.2025     | 6h 02min |
+| [Rinnerhütte](https://www.bergwelten.com/h/rinnerhuette) (1473m)                                                                                      | 830hm   | 5h 10min                       | Parkplatz Offensee              |              | 1h 06min / 89km     |                         | 6h 16min |
+| [Hochmöblinghütte](1683m)                                                                                                                             | 660hm   | 4h 15min                       | Parkplatz Schönmoos             |              | 1h 22min / 112km    |                         | 5h 37min |
 
 ## Klettersteige
 
