@@ -46,6 +46,7 @@
 
 * [Geiler Hengst](https://www.bergsteigen.com/touren/klettersteig/klettersteig-geiler-hengst-kampermauer/)
 * [Seewand](https://www.bergsteigen.com/touren/klettersteig/seewand-klettersteig/)
+* Amon Klettersteig/Dachstein/Hohes Kreuz [Topo](https://www.steiermark.com/Alpstein/Images/4063775/453930/image-thumb__453930__lightbox/amon-topo-50384295.jpg) [Topo Bergsteigen](https://app.bergsteigen.com/touren/klettersteig/amon-klettersteig-hohes-kreuz/) [Bilder](https://alpskyvudce.cz/ferrata/Amon_Klettersteig_-_Hohes_Kreuz)
 
 ### Klettersteige Südtirol Nähe Gardasee
 
